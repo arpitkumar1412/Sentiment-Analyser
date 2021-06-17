@@ -5,7 +5,7 @@
 • For further details and results, see stcs-report.pdf
 
 # TO run
-1. extract data from project.rar to the main file.
+1. extract data from project.zip to the main file.
 2. data (3) file is CBOW embeddings
 3. glove.6b.100d is glove embeddings
 4. run RNN and LSTM in colab
